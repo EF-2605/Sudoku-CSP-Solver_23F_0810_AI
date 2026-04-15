@@ -29,7 +29,7 @@ Sudoku-CSP-Solver/
 ## ▶️ How to Run
 
 ```bash
-python solver.py
+Upload the text files on jupyter notebook and run the code by pressing SHIFT + ENTER key.
 ```
 
 ---
